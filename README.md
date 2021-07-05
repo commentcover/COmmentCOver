@@ -7,7 +7,7 @@
 - 유튜브 api 활용 및 댓글 크롤링
 
 &#9989; 21/7/5 MON
-- 한글 <strike>맞춤법</strike> & 띄어쓰기 교정(pykospacing, <strike>hanspell</strike>)
+- 한글 맞춤법 & 띄어쓰기 교정(pykospacing, <strike>hanspell</strike>)
 - 신조어 & 반복 문자 정제(soynlp)
 - 형태소 분석(Okt, komoran, hannanum, kkma, khaiii 테스트 후 Okt 선정)
 
