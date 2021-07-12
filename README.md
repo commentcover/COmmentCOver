@@ -27,7 +27,7 @@
 
 &#9989; 21/7/12 MON
 - 악플 정리본 띄어쓰기 등 전처리
-- 단어/문장 임베딩 테스트(word2vec, doc2vec, glove, tf-idf, fastText)
+- 단어/문장 임베딩 비교 테스트(word2vec, doc2vec, glove, tf-idf, fastText)
 - 벡터화 기법으로 Glove 최종 선정(클러스터링 용도)
 
 &#9989; 21/7/14 WED
