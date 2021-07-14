@@ -31,7 +31,8 @@
 - 벡터화 기법으로 Glove 최종 선정(클러스터링 용도)
 
 &#9989; 21/7/14 WED
-- Glove 사용하여 클러스터링(Kmeans, DBSCAN) 시도 후 기각 -> 프로젝트 방향성에 맞지 않음
+- Glove 사용하여 클러스터링(Kmeans, DBSCAN) 시도 후 기각
+-> 프로젝트 방향성에 맞지 않음
 - LSTM, BiLSTM, GRU, KoBert, Bert 시작
 
 &#9989; 21/7/15 THU
