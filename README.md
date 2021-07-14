@@ -34,5 +34,5 @@
 - Glove 사용하여 클러스터링(Kmeans, DBSCAN) 시도 후 기각 -> 프로젝트 방향성에 맞지 않음
 - LSTM, BiLSTM, GRU, KoBert, Bert 시작
 
-&#9989; 21/7/14 WED
+&#9989; 21/7/15 THU
 - TODO
