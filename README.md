@@ -78,6 +78,7 @@
 &#128293; 숙제(~8/19 회의 전까지)
 - 각자 모델(LSTM/GRU/Bert) tensorflow.js에 적용
   - Python > JS로 코드 변경 or JS에서 Python 파일 로드해서 사용
+  - https://www.tensorflow.org/js/tutorials/conversion/import_keras?hl=ko 참조
 - 크롬 확장 프로그램 사이트 학습
 
 &#9989; 21/8/19 THU
