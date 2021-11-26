@@ -17,13 +17,13 @@
 - requirement.txt
 
 Web Server 폴더의 파일 다운로드</br>
-파이썬 3.9.7 다운로드
-가상 환경 제작(https://wikidocs.net/81041 - 점프 투 플라스크 참조)
-가상 환경 폴더에 아래 내용을 포함한 프로젝트명.cmd 파일 생성
+파이썬 3.9.7 다운로드</br>
+가상 환경 제작(https://wikidocs.net/81041 - 점프 투 플라스크 참조)</br>
+가상 환경 폴더에 아래 내용을 포함한 프로젝트명.cmd 파일 생성</br>
 @echo off
 cd c:/projects/myproject
 set FLASK_APP=pybo
 set FLASK_ENV=development
-c:/venvs/myproject/scripts/activate
-명령 프롬프트를 열어 프로젝트명 입력 - Enter
-프로젝트에 포함된 패키지 다운로드
+c:/venvs/myproject/scripts/activate</br>
+명령 프롬프트를 열어 프로젝트명 입력 - Enter</br>
+프로젝트에 포함된 패키지 다운로드</br>
