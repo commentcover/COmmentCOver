@@ -43,7 +43,7 @@ requirement.txt를 참조하여 프로젝트에 포함된 패키지 다운로드
 
 ---------
 
-### &#9822; **Model**
+### &#129412; **Model**
 - LSTM, BiLSTM
 - GRU
 - BERT
