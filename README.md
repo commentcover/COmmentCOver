@@ -16,7 +16,7 @@ chrome://extensions/ 접속</br>
 확장 프로그램 로드 완료</br>
 크롬 웹 브라우저 상단 탭에서 확장 프로그램 선택하여 활성화되는지 확인</br></br>
 
-
+---------
 
 ### &#127875; **Web Server**
 - __init__.py
@@ -40,7 +40,9 @@ c:/venvs/myproject/scripts/activate
 명령 프롬프트를 열어 프로젝트명 입력 - Enter</br>
 requirement.txt를 참조하여 프로젝트에 포함된 패키지 다운로드</br>
 
-### &#127751; **Model**
+---------
+
+### &#9822; **Model**
 - LSTM, BiLSTM
 - GRU
 - BERT
