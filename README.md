@@ -41,7 +41,6 @@ c:/venvs/myproject/scripts/activate
 requirement.txt를 참조하여 프로젝트에 포함된 패키지 다운로드</br>
 
 ### &#127751; **Model**
-###### CODE & .h5
 - LSTM, BiLSTM
 - GRU
 - BERT
